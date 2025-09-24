@@ -1,0 +1,13 @@
+{
+  "name": "Silli — Meal Mood Companion",
+  "short_name": "Silli MMC",
+  "start_url": "/mmc/",
+  "scope": "/mmc/",
+  "display": "standalone",
+  "icons": [
+    { "src": "/mmc/icons/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/mmc/icons/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#0b1014",
+  "background_color": "#0b1014"
+}
